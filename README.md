@@ -1,7 +1,7 @@
 ### Hello there stranger 👋
 
 My name is Sandro, but i go under the moniker [Sandroid](https://sandroid.xyz/).<br/>
-I'm a lonesome swiss musician. Abuser of innocent instruments.. or so i'm told 😅.
+I'm a lonesome swiss musician. Conjurer of code and bugs. And abuser of innocent instruments.. or so i'm told 😅.
 
 You can find my socials here: https://sandroid.music
 
